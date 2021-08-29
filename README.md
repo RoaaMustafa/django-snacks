@@ -18,6 +18,6 @@
 
 ## PR: https://github.com/RoaaMustafa/django-snacks/pull/1
 
-## cooperation
+## colaboration
 
 ### I work with Abdullah Elian And Anas AbuGhaliah
